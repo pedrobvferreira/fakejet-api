@@ -45,7 +45,7 @@ The holiday duration is defined as the number of days the user wishes to spend o
 * How we can build & run the code:
    - Run the endpoints oneway-flights, and return-flights
 * Any assumptions that you have made because you were unsure of any of the requirements:
-   - I wasn't sure what to do in point 2, so I assumed it would make two endpoints x days apart, where the response would bring a new list with the return flight
+   - I assumed in point 2 it would make two endpoints x days apart, where the response would bring a new list with the return flight
 
 
 ----------------------
