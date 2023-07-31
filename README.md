@@ -41,11 +41,11 @@ The holiday duration is defined as the number of days the user wishes to spend o
 * Improves to the FakeJet API: 
    - change the requests to use maybe an WebClient
 * Design decisions you have made:
-   - create packages for different parts of the flighs-api (model, controller, service, client).
+   - create packages for different parts of the flighs-api (response, controller, service, client).
 * How we can build & run the code:
    - Run the endpoints oneway-flights, and return-flights
 * Any assumptions that you have made because you were unsure of any of the requirements:
-   - I assumed in point 2 it would make two endpoints x days apart, where the response would bring a new list with the return flight
+   - I assumed that in point 2 it was supposed to have two endpoints with x days of difference, where the first would bring the list of outward flights and the second would bring a list with the return flights.
 
 
 ----------------------
