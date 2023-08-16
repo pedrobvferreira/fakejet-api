@@ -39,7 +39,7 @@ The holiday duration is defined as the number of days the user wishes to spend o
 * Time spent on the test:
    - 2 days
 * Improves to the FakeJet API: 
-   - change the requests to use maybe an WebClient
+   - change the requests to use maybe an WebClient/RestTemplate
 * Design decisions you have made:
    - create packages for different parts of the flighs-api (response, controller, service, client).
 * How we can build & run the code:
